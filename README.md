@@ -1,2 +1,4 @@
 # Linkedin-signup
- A LinkedIn signup page for new users
+ A LinkedIn Sign-up page for new users.
+
+ A simple clone of LinkedIn Sign-Up page.
